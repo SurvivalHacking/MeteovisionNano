@@ -2,15 +2,30 @@
 A 3D weather station / Una stazione meteo 3D
 
 ## 📘 Descrizione / Description
-Meteovision è una stazione meteo fuori dal comune.
-Racchiusa in una campana di vetro, trasforma le previsioni del tempo in simboli luminosi: nuvole, fulmini, sole e luna si accendono con eleganza per mostrarti ciò che accadrà nel cielo.
-Un anello di luce RGB, controllabile anche tramite APP, accentua l’atmosfera dell’ambiente, mentre un display grafico aggiunge movimento e dettaglio.
-Con Meteovision, il meteo non si legge: si guarda, si vive.
+Meteovision Nano è la stazione meteo “iconica” da cui è nata tutta la famiglia di progetti Meteovision. Racchiusa in una campana di vetro, trasforma le previsioni del tempo in simboli luminosi: nuvole, fulmini, sole e luna si accendono con eleganza per mostrarti ciò che accadrà nel cielo. Un anello di luce RGB, controllabile anche tramite app, accentua l’atmosfera dell’ambiente, mentre un display grafico aggiunge movimento e dettaglio.
+Questo progetto rappresenta il punto di partenza da cui si è arrivati a Meteovision Nano: la versione miniaturizzata che mantiene tutte le funzionalità originali (icone illuminate, anello Neopixel, connessione Wi-Fi per le previsioni OpenWeather), ma in un formato più compatto e con elettronica e stampa 3D ottimizzate.
+Con Meteovision Nano, il meteo non si legge: si guarda, si vive… ed è stato il progetto che ha aperto la strada alla sua evoluzione in formato Nano.
 
-Meteovision is an extraordinary weather station.
-Enclosed in a glass dome, it transforms weather forecasts into luminous symbols: clouds, lightning, sun, and moon light up elegantly to show you what will happen in the sky.
-An RGB light ring, which can also be controlled via an app, accentuates the atmosphere of the environment, while a graphic display adds movement and detail.
-With Meteovision, you don't read the weather: you watch it, you experience it.
+Caratteristiche principali
+Icone meteo illuminate (nuvole, fulmini, sole, luna, ecc.)
+Anello di luce RGB (Neopixel) controllabile anche tramite app
+Display grafico per dettagli e animazioni
+Connessione Wi-Fi per ricevere previsioni in tempo reale da OpenWeather
+Design in campana di vetro con componenti stampati in 3D
+Progetto “capostipite” della famiglia Meteovision, da cui deriva Meteovision Nano: https://github.com/SurvivalHacking/Meteovision 
+
+
+Meteovision Nano is the “iconic” weather station that started the entire Meteovision family of projects. Housed inside a glass dome, it transforms weather forecasts into glowing symbols: clouds, lightning, sun, and moon elegantly light up to show you what’s happening in the sky. An RGB light ring, also controllable via app, enhances the room’s atmosphere, while a graphic display adds motion and detail.
+This project is the starting point that led to Meteovision Nano: a miniaturized version that keeps all the original features (illuminated icons, Neopixel ring, Wi-Fi connectivity for OpenWeather forecasts), but in a more compact form factor with optimized electronics and 3D-printed parts.
+With Meteovision nano, the weather isn’t read: it’s watched, it’s experienced… and this was the project that paved the way for its Nano-sized evolution.
+
+Key features
+Illuminated weather icons (clouds, lightning, sun, moon, etc.)
+RGB light ring (Neopixel) also controllable via app
+Graphic display for details and animations
+Wi-Fi connectivity to receive real-time forecasts from OpenWeather
+Glass dome design with 3D-printed components
+“Flagship” project of the Meteovision family, from which Meteovision Nano is derived: https://github.com/SurvivalHacking/Meteovision
 
 
 <img width="3840" height="2160" alt="IMG_9229_(00-00-01-05)" src="https://github.com/user-attachments/assets/593ece13-f56e-4227-ae81-4fb41ba604db" />
