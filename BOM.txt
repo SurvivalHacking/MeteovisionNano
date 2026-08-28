@@ -1,0 +1,7 @@
+* Rete resistiva/Resistor network 6 PIN 220R: https://s.click.aliexpress.com/e/_c2IRbgqj
+* Pulsante 6x6x4.3: https://s.click.aliexpress.com/e/_c4m3rIMZ 
+* Connettore USB-C pannello 6P: https://s.click.aliexpress.com/e/_c4V9HRJx
+* Connettore TYPE-C male 4P: https://s.click.aliexpress.com/e/_c2RgfDfL
+* ESP32C3 con display: https://s.click.aliexpress.com/e/_c3LKGlUH
+* Anello/Ring 12LED: https://is.gd/jwih4c
+* Campana di vetro/Glass dome 6x10cm: https://s.click.aliexpress.com/e/_c2I7L6e9
