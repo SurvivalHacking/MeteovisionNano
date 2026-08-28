@@ -12,6 +12,17 @@ Enclosed in a glass dome, it transforms weather forecasts into luminous symbols:
 An RGB light ring, which can also be controlled via an app, accentuates the atmosphere of the environment, while a graphic display adds movement and detail.
 With Meteovision, you don't read the weather: you watch it, you experience it.
 
+
+<img width="3840" height="2160" alt="IMG_9229_(00-00-01-05)" src="https://github.com/user-attachments/assets/593ece13-f56e-4227-ae81-4fb41ba604db" />
+<img width="3840" height="2160" alt="IMG_9227_(00-00-01-25)" src="https://github.com/user-attachments/assets/30367bed-b564-4667-acd3-de79d5eeed7d" />
+<img width="3840" height="2160" alt="IMG_9226_(00-00-03-15)" src="https://github.com/user-attachments/assets/9570907d-cd05-4323-98fc-8dd5584fe06f" />
+<img width="3840" height="2160" alt="IMG_9222_(00-00-06-13)" src="https://github.com/user-attachments/assets/5439237c-5742-4115-8f5a-44ff63afdad4" />
+<img width="3840" height="2160" alt="IMG_9218_(00-00-09-08)" src="https://github.com/user-attachments/assets/e3da89c4-2d02-4ae5-8038-06682fa6f942" />
+<img width="3840" height="2160" alt="IMG_9218_(00-00-05-29)" src="https://github.com/user-attachments/assets/5f284f12-2d93-4ed2-8496-6035f7c9bc31" />
+<img width="3840" height="2160" alt="IMG_9218_(00-00-00-00)" src="https://github.com/user-attachments/assets/ed779c1e-2a4e-4de7-a0b3-ae60052b4ef0" />
+<img width="3840" height="2160" alt="IMG_9216_(00-00-11-04)" src="https://github.com/user-attachments/assets/2b40a42c-05f1-4c8f-a26f-e59e3862d56b" />
+
+
 ---
 ## 🎛️ Schematic 
 <img width="2283" height="1587" alt="Schematic" src="https://github.com/user-attachments/assets/632411af-ebb2-400e-bfc3-ef6c9a943a7c" />
