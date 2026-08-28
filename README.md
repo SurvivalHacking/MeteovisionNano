@@ -7,12 +7,13 @@ Questo progetto rappresenta il punto di partenza da cui si è arrivati a Meteovi
 Con Meteovision Nano, il meteo non si legge: si guarda, si vive… ed è stato il progetto che ha aperto la strada alla sua evoluzione in formato Nano.
 
 Caratteristiche principali
-Icone meteo illuminate (nuvole, fulmini, sole, luna, ecc.)
-Anello di luce RGB (Neopixel) controllabile anche tramite app
-Display grafico per dettagli e animazioni
-Connessione Wi-Fi per ricevere previsioni in tempo reale da OpenWeather
-Design in campana di vetro con componenti stampati in 3D
-Progetto “capostipite” della famiglia Meteovision, da cui deriva Meteovision Nano: https://github.com/SurvivalHacking/Meteovision 
+
+*Icone meteo illuminate (nuvole, fulmini, sole, luna, ecc.)
+*Anello di luce RGB (Neopixel) controllabile anche tramite app
+*Display grafico per dettagli e animazioni
+*Connessione Wi-Fi per ricevere previsioni in tempo reale da OpenWeather
+*Design in campana di vetro con componenti stampati in 3D
+*Progetto “capostipite” della famiglia Meteovision, da cui deriva Meteovision Nano: https://github.com/SurvivalHacking/Meteovision 
 
 
 Meteovision Nano is the “iconic” weather station that started the entire Meteovision family of projects. Housed inside a glass dome, it transforms weather forecasts into glowing symbols: clouds, lightning, sun, and moon elegantly light up to show you what’s happening in the sky. An RGB light ring, also controllable via app, enhances the room’s atmosphere, while a graphic display adds motion and detail.
@@ -20,12 +21,13 @@ This project is the starting point that led to Meteovision Nano: a miniaturized 
 With Meteovision nano, the weather isn’t read: it’s watched, it’s experienced… and this was the project that paved the way for its Nano-sized evolution.
 
 Key features
-Illuminated weather icons (clouds, lightning, sun, moon, etc.)
-RGB light ring (Neopixel) also controllable via app
-Graphic display for details and animations
-Wi-Fi connectivity to receive real-time forecasts from OpenWeather
-Glass dome design with 3D-printed components
-“Flagship” project of the Meteovision family, from which Meteovision Nano is derived: https://github.com/SurvivalHacking/Meteovision
+
+*Illuminated weather icons (clouds, lightning, sun, moon, etc.)
+*RGB light ring (Neopixel) also controllable via app
+*Graphic display for details and animations
+*Wi-Fi connectivity to receive real-time forecasts from OpenWeather
+*Glass dome design with 3D-printed components
+*“Flagship” project of the Meteovision family, from which Meteovision Nano is derived: https://github.com/SurvivalHacking/Meteovision
 
 
 <img width="3840" height="2160" alt="IMG_9229_(00-00-01-05)" src="https://github.com/user-attachments/assets/593ece13-f56e-4227-ae81-4fb41ba604db" />
