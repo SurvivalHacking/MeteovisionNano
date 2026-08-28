@@ -13,8 +13,7 @@ Caratteristiche principali:
 * Connessione Wi-Fi per ricevere previsioni in tempo reale da OpenWeather
 * Design in campana di vetro con componenti stampati in 3D
 * Progetto “capostipite” della famiglia Meteovision, da cui deriva Meteovision Nano: https://github.com/SurvivalHacking/Meteovision 
-
-
+---
 Meteovision Nano is the “iconic” weather station that started the entire Meteovision family of projects. Housed inside a glass dome, it transforms weather forecasts into glowing symbols: clouds, lightning, sun, and moon elegantly light up to show you what’s happening in the sky. An RGB light ring, also controllable via app, enhances the room’s atmosphere, while a graphic display adds motion and detail.
 This project is the starting point that led to Meteovision Nano: a miniaturized version that keeps all the original features (illuminated icons, Neopixel ring, Wi-Fi connectivity for OpenWeather forecasts), but in a more compact form factor with optimized electronics and 3D-printed parts.
 With Meteovision nano, the weather isn’t read: it’s watched, it’s experienced… and this was the project that paved the way for its Nano-sized evolution.
